@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Ananya 👋
 
-<!--
-**Ananya123156/Ananya123156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student specializing in AI & Machine Learning, with hands-on project experience
+💡 Interested in intelligent systems and real-world problem solving  
+🌱 Currently learning and building projects step by step
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Programming: Python, JavaScript (Basics)
+- AI/ML: Machine Learning fundamentals, model training (basic)
+- Web: HTML, CSS, JavaScript
+- Databases: SQL, MongoDB, PostgreSQL
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Impulse Flexomind** – AI + hardware-based system for cognitive and motor response analysis  
+- **Full-Stack CRUD Application** – Built using Express.js and PostgreSQL with complete backend integration  
+- **LinkedIn Profile Generator** – LLM API–based tool to generate optimized LinkedIn summaries  
+- **Obstrabot Avoidatron** – AI + hardware-based IoT robot for obstacle detection and avoidance
+
+
+## 🎯 What I'm focusing on now
+- Strengthening ML fundamentals
+- Building clean, well-documented projects
+- Learning how to collaborate using GitHub
+
+## 📫 Connect with me
+- GitHub: https://github.com/Ananya123156
+- LinkedIn: linkedin.com/in/ananya-rajakumar
+
+
